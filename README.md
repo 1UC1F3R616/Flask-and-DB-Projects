@@ -3,9 +3,7 @@ You can push your projects here. Or use them for your own use.
 
 
 ## Food Tracker App
-> Flask
-
-> Sqlite3
-
+> Flask </br>
+> Sqlite3 </br>
 > Bootstrap
 
