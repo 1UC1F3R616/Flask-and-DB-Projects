@@ -4,8 +4,20 @@ These are projects that I made while learning, They are not my Ideas or Projects
 </br>
 
 
-## Food Tracker App
-> Flask </br>
-> Sqlite3 </br>
-> Bootstrap
+## Tech Stack
+#### Docs Similarity check
+- Flask
+- RestAPI
+- Scapy (NLP)
+- MongoDB
+- Docker
 
+#### Food Tracker App
+- Flask
+- MySql
+- Bootstrap
+
+#### Question & Answer App
+- Flask
+- MySql
+- Bootstrap
